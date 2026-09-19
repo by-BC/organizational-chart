@@ -5,11 +5,6 @@
 **Sua estrutura organizacional, clara como deveria ser.**
 Monte, navegue e mantenha o organograma da sua empresa direto no navegador.
 
-![Versão](https://img.shields.io/badge/versão-2.0.0-c9a06a)
-![Local-first](https://img.shields.io/badge/dados-100%25%20no%20seu%20navegador-2ea44f)
-![Zero dependências](https://img.shields.io/badge/dependências-0-6f42c1)
-![Excel](https://img.shields.io/badge/excel-importa%20e%20exporta-1f7544)
-
 <img src="assets/preview-vertical.png" alt="Organograma na vertical, com a fundação no topo e os setores logo abaixo" width="900">
 
 </div>
