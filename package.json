@@ -1,0 +1,20 @@
+{
+  "name": "organograma",
+  "version": "2.0.0",
+  "description": "Organograma interativo local-first: setores, cargos, pessoas e linhas de reporte, com importação e exportação em Excel.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node scripts/serve.mjs"
+  },
+  "keywords": [
+    "organograma",
+    "org-chart",
+    "local-first",
+    "vanilla-js",
+    "excel"
+  ]
+}

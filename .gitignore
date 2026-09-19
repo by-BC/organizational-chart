@@ -1,0 +1,18 @@
+# Dependências e caches
+node_modules/
+.npm/
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Ferramentas de automação e logs locais
+.playwright-mcp/
+.claude/
+*.log
+
+# Arquivos temporários do Excel
+~$*.xlsx
