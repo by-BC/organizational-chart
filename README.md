@@ -180,3 +180,9 @@ HTML, CSS e JavaScript puros — nenhum framework, nenhum bundler, nenhuma depen
 ## Estado atual
 
 Versão **2.0.0**. Se algo se comportar de forma inesperada, o melhor relato inclui a largura da tela, se a orientação era vertical ou horizontal e, se possível, uma exportação da planilha que reproduza o problema (sem dados reais de pessoas).
+
+---
+
+## Licença
+
+Distribuído sob a licença [MIT](LICENSE).
