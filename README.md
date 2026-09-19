@@ -3,7 +3,7 @@
 # Organograma
 
 **Sua estrutura organizacional, clara como deveria ser.**
-Monte, navegue e mantenha o organograma da sua empresa direto no navegador — sem servidor, sem cadastro, sem mensalidade e sem enviar um único dado para fora.
+Monte, navegue e mantenha o organograma da sua empresa direto no navegador.
 
 ![Versão](https://img.shields.io/badge/versão-2.0.0-c9a06a)
 ![Local-first](https://img.shields.io/badge/dados-100%25%20no%20seu%20navegador-2ea44f)
